@@ -1,2 +1,2 @@
 # DIO-Projects
-Repositório de Exercícios Potencial Tech da DIO
+Repositório de Exercícios e Projetos feitos com a DIO
